@@ -30,7 +30,6 @@
                     <div class="mb-1 text-muted">Nov 11</div>
                     <p class="mb-auto">Mengapa kucing suka terobsesi dengan plastik atau kotak sempit yang bahkan tidak
                         muat untuk tubuhnya?
-                        Mengapa kucing suka mendengkur saat dielus-elus kepalanya?
                     </p>
                     <a href="/artikel2" class="stretched-link">Baca Selengkapnya</a>
                 </div>
