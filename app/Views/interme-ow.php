@@ -4,8 +4,7 @@
 <div class="container">
     <div class="row mb-2">
         <div class="col-md-6">
-            <div
-                class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                 <div class="col p-4 d-flex flex-column position-static">
                     <strong class="d-inline-block mb-2 text-primary">Artikel</strong>
                     <h3 class="mb-0">10 Sifat dan kepribadian kucing menurut warna bulunya</h3>
@@ -16,20 +15,15 @@
                     <a href="/artikel1" class="stretched-link">Baca Selengkapnya</a>
                 </div>
                 <div class="col-auto d-none d-lg-block">
-                    <svg class="bd-placeholder-img" width="200" height="250" img-src="http://www.w3.org/2000/svg"
-                        preserveAspectRatio="xMidYMid slice" focusable="false" role="img"
-                        aria-label="Placeholder: Thumbnail">
-                        <img src="img/kucing-unik" class="rounded mx-auto d-block" alt="...">
+                    <svg class="bd-placeholder-img" width="200" height="250" img-src="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
                         <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef"
-                            dy=".3em">Thumbnail</text>
+                        <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
                     </svg>
                 </div>
             </div>
         </div>
         <div class="col-md-6">
-            <div
-                class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                 <div class="col p-4 d-flex flex-column position-static">
                     <strong class="d-inline-block mb-2 text-success">Artikel</strong>
                     <h3 class="mb-0">Perilaku Unik Kucing</h3>
@@ -41,12 +35,9 @@
                     <a href="/artikel2" class="stretched-link">Baca Selengkapnya</a>
                 </div>
                 <div class="col-auto d-none d-lg-block">
-                    <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"
-                        preserveAspectRatio="xMidYMid slice" focusable="false" role="img"
-                        aria-label="Placeholder: Thumbnail">
+                    <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
                         <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef"
-                            dy=".3em">Thumbnail</text>
+                        <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
                     </svg>
                 </div>
             </div>
@@ -57,8 +48,7 @@
 <div class="container">
     <div class="row mb-2">
         <div class="col-md-6">
-            <div
-                class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                 <div class="col p-4 d-flex flex-column position-static">
                     <strong class="d-inline-block mb-2 text-primary">Artikel</strong>
                     <h3 class="mb-0">Fakta Unik Kucing yang jarang orang ketahui</h3>
@@ -68,19 +58,15 @@
                     <a href="/artikel3" class="stretched-link">Baca Selengkapnya</a>
                 </div>
                 <div class="col-auto d-none d-lg-block">
-                    <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"
-                        preserveAspectRatio="xMidYMid slice" focusable="false" role="img"
-                        aria-label="Placeholder: Thumbnail">
+                    <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
                         <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef"
-                            dy=".3em">Thumbnail</text>
+                        <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
                     </svg>
                 </div>
             </div>
         </div>
         <div class="col-md-6">
-            <div
-                class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                 <div class="col p-4 d-flex flex-column position-static">
                     <strong class="d-inline-block mb-2 text-success">Tips and Trick</strong>
                     <h3 class="mb-0">12 Penyakit kulit pada kucing, cara mengobati dan mencegahnya</h3>
@@ -90,12 +76,9 @@
                     <a href="/artikel4" class="stretched-link">Baca Selengkapnya</a>
                 </div>
                 <div class="col-auto d-none d-lg-block">
-                    <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"
-                        preserveAspectRatio="xMidYMid slice" focusable="false" role="img"
-                        aria-label="Placeholder: Thumbnail">
+                    <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
                         <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef"
-                            dy=".3em">Thumbnail</text>
+                        <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
                     </svg>
                 </div>
             </div>
