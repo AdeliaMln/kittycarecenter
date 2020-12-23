@@ -92,8 +92,6 @@
     <hr>
     <br>
 
-
-
     <?= $this->renderSection('content'); ?>
     <br><br>
 
