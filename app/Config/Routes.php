@@ -40,10 +40,10 @@ $routes->get('/hubungikami', 'KittyCareCenter::hubungikami');
 $routes->get('/daftar', 'KittyCareCenter::daftar');
 $routes->get('/masuk', 'KittyCareCenter::masuk');
 $routes->get('/donasi/pembayaran', 'KittyCareCenter::pembayaran');
-$routes->get('/interme-ow/artikel1', 'KittyCareCenter::artikel1');
-$routes->get('/interme-ow/artikel2', 'KittyCareCenter::artikel2');
-$routes->get('/interme-ow/artikel3', 'KittyCareCenter::artikel3');
-$routes->get('/interme-ow/artikel4', 'KittyCareCenter::artikel4');
+$routes->get('/artikel1', 'Artikel::artikel1');
+$routes->get('/artikel2', 'Artikel::artikel2');
+$routes->get('/artikel3', 'Artikel::artikel3');
+$routes->get('/artikel4', 'Artikel::artikel4');
 
 /**
  * --------------------------------------------------------------------
